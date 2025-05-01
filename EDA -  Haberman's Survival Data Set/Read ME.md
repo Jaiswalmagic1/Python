@@ -2,6 +2,19 @@
 
 This repository contains an Exploratory Data Analysis (EDA) of the Haberman's Survival Data Set, documented in the `eda-haberman-s-survival-data-set (1).ipynb` notebook. The analysis aimed to identify potential factors influencing patient survival following breast cancer surgery.
 
+The primary goal of this analysis is to gain a thorough understanding of the factors influencing patient survival following breast cancer surgery.
+
+The notebook delves into the following aspects:
+
+- **Data Cleaning and Preprocessing:** Handling any inconsistencies or missing data within the dataset.
+- **Feature Exploration:** Analyzing the distribution and characteristics of individual features such as patient age, year of operation, and the crucial number of positive axillary nodes.
+- **Univariate and Multivariate Analysis:** Examining the relationships between individual features and the survival status, as well as exploring interactions between multiple features.
+- **Visualizations:** Utilizing various plots (e.g., histograms, scatter plots, box plots) to effectively communicate data patterns and potential correlations.
+- **Key Findings and Insights:** Summarizing the significant observations and potential indicators related to patient survival based on the EDA.
+
+This EDA serves as a crucial first step in understanding the underlying dynamics of the Haberman's Survival Data Set and provides valuable insights for subsequent predictive modeling or further research.
+
+
 **Key Findings from the EDA:**
 
 * **[Correlation between Positive Axillary Nodes and Survival]:** Based on our analysis, we observed [describe the finding in detail, e.g., a clear trend of decreasing survival probability as the number of positive axillary nodes increases. This was visually represented through scatter plots and potentially correlation coefficients.]
